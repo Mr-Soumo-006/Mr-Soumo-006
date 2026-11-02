@@ -6,6 +6,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Mr--Soumo--006-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mr-Soumo-006)
 [![Email](https://img.shields.io/badge/Contact-naskarsimo006%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naskarsimo006@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Mr-Soumo-006&label=Profile%20Views&color=0ea5e9&style=for-the-badge)](https://github.com/Mr-Soumo-006)
+[![Live Portfolio](https://img.shields.io/badge/Live-Web%20Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mr-soumo-006.github.io/Mr-Soumo-006/)
 
 <br/>
 
